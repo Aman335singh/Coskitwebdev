@@ -93,6 +93,7 @@
   align-items: center;
   color: white;
   font-size: medium;
+  text-decoration: none !important;
 }
 .about:hover {
   font-weight: bolder;
